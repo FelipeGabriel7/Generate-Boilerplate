@@ -19,3 +19,33 @@ Projeto utilizando as seguintes tecnologias
 
 Projeto feito para obter maiores conhecimentos sobre a plataforma do Node.js
 
+Para utilizar o projeto
+
+1 - Clone o projeto
+
+
+2- Execute:
+<br/>
+<br/>
+
+    npm install ou npm i
+
+<br/>
+
+3 - Realize o build do projeto
+
+<br/>
+<br/>
+
+    npm run build
+
+<br/>
+
+3 - Após o build inicie o projeto
+
+<br/>
+<br/>
+
+    npm run start
+
+<br/>
