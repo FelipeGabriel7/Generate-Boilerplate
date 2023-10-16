@@ -47,6 +47,8 @@ class GenerateFile {
   }
 
   private _exectPath(gitName: string, folderName: string, author: string) {
+
+    console.log(folderName);
     try {
       shellJs.cd(path.resolve());
 

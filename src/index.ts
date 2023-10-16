@@ -1,4 +1,4 @@
-//#!/usr/bin/env node
+#!/usr/bin/env node
 
 import { GenFile } from 'controller/generate.controller';
 import inquirer from 'inquirer';

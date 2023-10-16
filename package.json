@@ -1,5 +1,5 @@
 {
-  "name": "CLI-boilerplate",
+  "name": "CLI_boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "test:ci": "jest --no-cache --coverage"
   },
   "bin": {
-    "clijs": "./dist/index.js"
+    "vfull": "./dist/index.js"
   },
   "author": "",
   "license": "ISC",
